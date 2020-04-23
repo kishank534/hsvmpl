@@ -1,0 +1,15 @@
+
+.navbar i{
+    margin-left: 1.2rem;
+}
+.navbar {
+   margin: 1.5rem;
+   margin-right: 5rem;
+}
+.cover{
+    text-align: center;
+}
+
+.cover iframe{
+    margin-top: 2.5rem;
+}
