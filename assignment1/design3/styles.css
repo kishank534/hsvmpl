@@ -1,0 +1,38 @@
+.navbar{
+   margin: 2rem 10rem 3rem 6.7rem;  
+}
+.navbar-brand{
+    color: #160340;
+}
+
+.navbar button{
+    border-radius: 10rem;
+    background-color: #12F4D5;
+}
+.form-group{
+    margin-top: 2rem;
+}
+.form-group input{
+    font-size: inherit;
+    width: 370px;
+    border-radius: 5rem;
+}
+.container h3{
+    color: #160340;
+}
+.container button{
+    width: 370px;
+    border-radius: 5rem;
+}
+.form-group p{
+    font-size: .7rem;
+    margin-left: 4rem;
+}
+
+.container{
+    display: flex;
+}
+.card{
+    margin-left: 25rem;  
+}
+
